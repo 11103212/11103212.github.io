@@ -1,0 +1,47 @@
+/* CSS Document */
+
+body{
+	background-color:lightcoral;
+}
+h1{
+	text-transform: uppercase;
+	text-align: center;
+	background-color: green;
+	color:white;
+	font-family: Arial;
+}
+ul li {
+     display:inline;
+     margin-left: 15px;
+}
+
+a{text-decoration: none;
+	font-weight: 200;
+	font-family:arial;
+	font-size: 32px;
+		
+]
+		
+		
+		
+	a:hover{color:#DB1519;
+	
+	}
+	
+	h2{
+		background-color: green;
+		color: white;
+		font-size: 40px;
+		font-family: arial;
+	     
+	}
+	p{
+		color: black;
+		font-family: arial;
+		font-size: 20;
+		
+			
+		
+		
+	}
+	
